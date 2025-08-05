@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HI im 
+=======
+HI im bulli im chotu
+HI im bulli im irfan
+>>>>>>> origin/master
